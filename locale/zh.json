@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "SQL 客户端",
+    "description": "在侧栏面板里管理 MySQL、PostgreSQL、SQLite 连接，执行 SQL 并查看结果。"
+  }
+}

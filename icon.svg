@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="SQL client">
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="#12587a"/>
+  <ellipse cx="32" cy="19" rx="16" ry="6.5" fill="#e6f6ff"/>
+  <path d="M16 19v26c0 3.6 7.2 6.5 16 6.5s16-2.9 16-6.5V19" fill="none" stroke="#e6f6ff" stroke-width="3.4" stroke-linejoin="round"/>
+  <path d="M16 32c0 3.6 7.2 6.5 16 6.5s16-2.9 16-6.5" fill="none" stroke="#e6f6ff" stroke-width="3.4"/>
+</svg>

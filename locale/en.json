@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "SQL client",
+    "description": "Manage MySQL, PostgreSQL and SQLite connections from the sidebar panel, run SQL and read the results."
+  }
+}
